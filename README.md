@@ -107,13 +107,14 @@ sh downstream_panseg_finetune.sh 0,1 {pretrain_weights_path} csc_pan_seg
 The codebase is adapted from [SLidR](https://github.com/valeoai/SLidR).
 
 # Citation
+
 ```
 @InProceedings{chen2024building,
-title={Building a Strong Pre-Training Baseline for Universal 3D Large-Scale Perception},
-author={Chen, Haoming and Zhang, Zhizhong and Qu, Yanyun and Zhang, Ruixin and Tan, Xin and Xie, Yuan},
-booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-month = {June},
-year= {2024}
+   title={Building a Strong Pre-Training Baseline for Universal 3D Large-Scale Perception},
+   author={Chen, Haoming and Zhang, Zhizhong and Qu, Yanyun and Zhang, Ruixin and Tan, Xin and Xie, Yuan},
+   booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+   month = {June},
+   year= {2024}
 }
 ```
 
