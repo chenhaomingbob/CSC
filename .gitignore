@@ -1,0 +1,6 @@
+*.pyc
+**/__pycache__
+output/
+datasets/
+superpixels/
+.idea
