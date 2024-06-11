@@ -8,6 +8,7 @@ Large-Scale Perception"
 # Updates
 
 - [2024-05-15] We are preparing the code and expect to release it before June 19.
+- [2024-06-11] Initialize the release code.
 
 # Requirements
 
